@@ -1,5 +1,5 @@
 {
-  "name": "anwer",
+  "name": "@ismailfaiz/anwer",
   "version": "0.0.1",
   "description": "Engine-agnostic semantic profiler for LLM inference systems (vLLM, SGLang, TensorRT-LLM, NVIDIA Dynamo)",
   "keywords": [
