@@ -1,0 +1,24 @@
+{
+  "name": "anwer",
+  "version": "0.0.1",
+  "description": "Engine-agnostic semantic profiler for LLM inference systems (vLLM, SGLang, TensorRT-LLM, NVIDIA Dynamo)",
+  "keywords": [
+    "llm",
+    "inference",
+    "profiling",
+    "observability",
+    "vllm",
+    "sglang"
+  ],
+  "author": "Ismail",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "homepage": "https://github.com/PLACEHOLDER_ORG/anwer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLACEHOLDER_ORG/anwer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PLACEHOLDER_ORG/anwer/issues"
+  }
+}
